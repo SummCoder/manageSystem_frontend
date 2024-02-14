@@ -19,7 +19,6 @@
     <el-submenu index="2">
       <template slot="title"><i class="el-icon-menu"></i>系统管理</template>
         <el-menu-item index="/user">用户管理</el-menu-item>
-        <el-menu-item index="2-2">选项2</el-menu-item>
     </el-submenu>
   </el-menu>
 </template>
